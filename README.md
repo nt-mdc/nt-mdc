@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Fullstack Developer · PHP/Laravel · Angular · TypeScript</b><br/>
-  🥇 WorldSkills International — 1º RJ · 4º Brasil
+  🥇 WorldSkills International — 1º RJ · 3º Brasil
 </p>
 
 ---
@@ -54,9 +54,9 @@
 | Conquista | Evento | Ano |
 |---|---|---|
 | 🥇 1º lugar — Rio de Janeiro | WorldSkills International | 2025 |
-| 🏅 4º lugar — Brasil | WorldSkills International | 2025 |
+| 🥉 3º lugar — Brasil | WorldSkills International | 2025 |
 | 🥇 1º lugar — Rio de Janeiro | WorldSkills International | 2023 |
-
+| 🏅 4º lugar — Brasil | WorldSkills International | 2023 |
 ---
 
 ### 📫 Contato
